@@ -1,5 +1,8 @@
 # markdown-it-lazy-image
-Lazy image plugin for markdown-it parser, replace 'src' attributes with 'data-src' for use with lazyload.
+
+[![npm](https://badgen.net/npm/v/markdown-it-lazy-image)](https://npm.im/markdown-it-lazy-image)
+
+Lazy image plugin for [markdown-it](https://github.com/markdown-it/markdown-it) parser, replace 'src' attributes with 'data-src' for use with lazyload.
 
 ## Install
 
