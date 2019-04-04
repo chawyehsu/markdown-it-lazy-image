@@ -1,0 +1,17 @@
+{
+  "name": "markdown-it-lazy-image",
+  "version": "0.0.1",
+  "description": "Lazy image plugin for markdown-it parser",
+  "author": "Chawye Hsu <h404bi@gmail.com>",
+  "homepage": "https://github.com/h404bi/markdown-it-lazy-image#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": "h404bi/markdown-it-lazy-image.git",
+  "keywords": [
+    "markdown-it-plugin",
+    "markdown-it"
+  ]
+}
