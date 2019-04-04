@@ -12,6 +12,7 @@
   "repository": "h404bi/markdown-it-lazy-image.git",
   "keywords": [
     "markdown-it-plugin",
-    "markdown-it"
+    "markdown-it",
+    "lazyload"
   ]
 }
