@@ -27,7 +27,7 @@ md.render(`![](example.png "image title")`);
 
 Options are not mandatory:
 
-- **placeholder** (String or Url) - replace 'src' attributes with give placeholder
+- **placeholder** (String or Url) - replace 'src' attributes with given placeholder
 
 ## License
 
